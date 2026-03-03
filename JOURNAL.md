@@ -19,6 +19,8 @@ One video that really helped me was this one video on how the Bambu Lab A1 works
 
 I understood the frame completely, but now I was lost on how to make things like the toolhead.
 
+<img width="1240" height="820" alt="image" src="https://github.com/user-attachments/assets/8e75f1ee-b2e3-4fc5-a71a-6963a64ac9bc" />
+
 And right then, Alex (@alexren) pulled up to the event and I asked him for help.
 
 He explained to me how he made his tool head by modeling the inside with the dimensions of the hotend, and how he added magnets to make the hotend hotswapable.
