@@ -1,10 +1,22 @@
 Made by: @Dhiaan Dave // Dhiaan Dave
 Repository link: https://github.com/the-X-alien/Storm/
-Total hours so far: 2
+Total hours so far: 7
 
-- [] I have a 3D printer or will be getting one before March 21st
+- [] I have a 3D printer or will be getting one before March 21st (printing legion pls save me)
 
-### Day 1 - Feb 28 2026
+---
+### Goals:
+
+- Beat the A1 at everything
+- Cartesian bedslinger (like Bambu A1)
+- 256×256×300mm build volume
+- 500–700mm/s, sub-5min Benchy, high quality
+- Screen, WiFi, rollable wheels
+- Under $300 including shipping/taxes
+- Portable, rollable base for easy travel
+
+---
+### Day 1 - Feb 28 2026 - 2 Hours
 I thought that Campfire SJ would be a good place to start making my printer because I was an org and not a participant.
 
 But the second I opened the Infill website, I was lost by all the terms like Gantry, Toolhead, and Extrusions. 
@@ -29,3 +41,36 @@ He also recommended that I look at other 3D printers to see what they did for th
 So I viewed printers like PandA and Nighthawk and saw their toolhead design.
 
 And now I need to pick a hotend and an extruder so I can model my toolhead.
+
+---
+### Day 2 - Mar 3 2026 - 5 Hours
+
+I spent some more time researching what parts I am actually using to build the 3D printer.
+
+(to come up with this list, I had to read alot of reddit, watch many youtube videos, and I had to ask many questions to Claude and Grok)
+
+So, I had to decide what kind of Aluminum extrusions to use.
+
+I needed the frame to be both sturdy and impact resistant.
+
+So, I had a large base made up of 4x 350mm 4040 Extrusions to spread vibration impact,
+
+Then 2x 2040 Extrusions for the Z axis movement,
+
+And the cross bar uptop will be a 2020 extrusion.
+
+To connect them, I will be using cornerplates.
+
+The extruder will be a Orbiter V2.5 which is the evolution of the V2.0 which is the standard lightweight direct-drive extruder for fast bedslingers
+
+And the hotend will be a Trianglelab TZ V6 2.0 Hotend which is considered to be a budget A1 hotend, because it prints 30–45 mm³/s on PLA with a 0.6 mm nozzle compared to the A1's 20–25 mm³/s speed, and it has a bi-metal heatbreak, copper block, fast heating, and it is CHT-compatible nozzle options. It is also super  lightweight, reliable, and it will work with with most V6-style mounts. (V6 style mount to keep in mind when im cadding the toolhead)
+
+For the nozzle, I'll go with any generic no name 0.4 mm hardened steel CHT-style (3-hole/high-flow) nozzle because 0.4mm is the industry standard for a balance of speed and quality for nice printers like the A1, A1 Mini, and Ender 3.
+
+For cooling, I will get Dual 5015 blower fans with high static pressure (24V) because the nozzle and hotend are going to run hot, and so this powerful combination should cool it down.
+
+For leveling, im using the Klicky probe, which is better than the CR Touch and the BL Touch in everysingle way of acuracy, weight, noise.
+
+---
+
+
