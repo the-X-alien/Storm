@@ -72,5 +72,12 @@ For cooling, I will get Dual 5015 blower fans with high static pressure (24V) be
 For leveling, im using the Klicky probe, which is better than the CR Touch and the BL Touch in everysingle way of acuracy, weight, noise.
 
 ---
+### Day 3 - Mar 4 2026 - 0.5 Hours
 
+Made some modifications to the above parts list after reading more on Reddit
 
+Aparently since the Klicky probe needs to dock, it's not ideal for bedslingers, and designed for other printers.
+So instead, I am switching to the BTT Eddy, because it is super fast and scans the entire bed in one go, making my printing time faster.
+
+Aparently CHT nozzles are a pain to clean if they get a clog and are annoying, and you might just have to throw them away altogether.
+So I'll start with a basic standard hardened steel 0.4mm V6 nozzle because I'm a beginner and I want the printer to work before I start trying anything crazy.
