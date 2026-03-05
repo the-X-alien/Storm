@@ -1,6 +1,6 @@
 Made by: @Dhiaan Dave // Dhiaan Dave
 Repository link: https://github.com/the-X-alien/Storm/
-Total hours so far: 7.5
+Total hours so far: 13
 
 - [] I have a 3D printer or will be getting one before March 21st (printing legion pls save me)
 
@@ -71,7 +71,7 @@ For cooling, I will get Dual 5015 blower fans with high static pressure (24V) be
 For leveling, im using the Klicky probe, which is better than the CR Touch and the BL Touch in everysingle way of acuracy, weight, noise.
 
 ---
-### Day 3 - Mar 4 2026 - 6 Hours
+### Day 3 - Mar 4 2026 - 6 Hours (I didn't think research would take this long :heavysob:)
 
 Made some modifications to the above parts list after reading more on Reddit
 
