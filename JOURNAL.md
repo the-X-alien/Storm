@@ -11,9 +11,8 @@ Total hours so far: 7.5
 - Cartesian bedslinger (like Bambu A1)
 - 256×256×300mm build volume
 - 500–700mm/s, sub-5min Benchy, high quality
-- Screen, WiFi, rollable wheels
-- Under $300 including shipping/taxes
-- Portable, rollable base for easy travel
+- Screen, WiFi, Quiet
+- Under $350 including shipping/taxes
 
 ---
 ### Day 1 - Feb 28 2026 - 2 Hours
@@ -72,7 +71,7 @@ For cooling, I will get Dual 5015 blower fans with high static pressure (24V) be
 For leveling, im using the Klicky probe, which is better than the CR Touch and the BL Touch in everysingle way of acuracy, weight, noise.
 
 ---
-### Day 3 - Mar 4 2026 - 0.5 Hours
+### Day 3 - Mar 4 2026 - 6 Hours
 
 Made some modifications to the above parts list after reading more on Reddit
 
@@ -81,3 +80,42 @@ So instead, I am switching to the BTT Eddy, because it is super fast and scans t
 
 Aparently CHT nozzles are a pain to clean if they get a clog and are annoying, and you might just have to throw them away altogether.
 So I'll start with a basic standard hardened steel 0.4mm V6 nozzle because I'm a beginner and I want the printer to work before I start trying anything crazy.
+
+Scratch the first thing, I'm going with a CR Touch because the the BTT Eddy is influenced by location and is aparently a pain to calibrate because it is super dependent on the magnetic field of the area.
+<img width="352" height="792" alt="image" src="https://github.com/user-attachments/assets/451fb54d-27c4-403d-aa9a-bd238fc0f1fc" />
+
+Wait scratch that again, (I'm sorry) I'm trying to make my printer as fast as possible so a light probe would help, and the Biqu Microprobe is recomeneded because it only weighs 6 grams!
+<img width="355" height="587" alt="image" src="https://github.com/user-attachments/assets/55ece148-f39e-4f48-9e35-40dff47505da" />
+
+(I should put a disclaimer that I might change any parts later if I get recommendations or I find a problem with them)
+
+I guess I should start with the motherboard, so for the control board, I am going with the BTT SKR Mini E3 V3, because not only is it super popular, but its also super cheap. It also just makes things simple.
+<img width="1409" height="956" alt="image" src="https://github.com/user-attachments/assets/53e2cba0-9552-4b38-b553-0a619aeddd3e" />
+
+Then for the brain, I am using a BTT Pi V1.2.1, because it is designed for the exact motherboard, it can run Klipper, and its optimized for printing. It also has an SPI Port
+
+So I can connect a TFT35 SPI touchscreen for Klipperscreen so I can control the printer without an external screen.
+<img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/bb05352c-ba5b-4bbf-bd1d-b7d27eba63e8" />
+
+For my motors, I am choosing the NEMA 17 Stepper Motors because they have high torque and good precision to have detailed 3D prints.
+<img width="522" height="522" alt="image" src="https://github.com/user-attachments/assets/5492777f-fd98-4749-85e0-d0fd00f092e0" />
+
+TO keep the thing running, my power supply will be a 24V 15A one, because all of my components take 24V to have more power.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/87c9b1b3-fdf8-4ab1-a79e-5540587c41f6" />
+
+For my heated base, I will be using a 310x310mm 24V 220W Aluminum Substrate Heated Bed, so my prints stick to the plate.
+<img width="342" height="342" alt="image" src="https://github.com/user-attachments/assets/2a35054d-3fcc-4426-bbc4-bd0e77d0f4af" />
+
+For the actual build plate, I will be using a 256x256mm PEI Textured buildplate because it is a good size so I can make most things, and the texture makes the print stick to the plate and also makes it easy to take off.
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/e82596f2-42fd-4914-b653-5e2094203dd5" />
+
+I also added a 24V 4010 Cooling fan to cool the toolhead because its going to get pretty hot.
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/3d9723a1-6bff-4e6c-ab9c-5f2afd717100" />
+
+I also added dual 24V 5015 Turbo Blowers to cool the plate and parts quickly.
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e8a60b2e-77e4-4b87-a662-3bf5db9a7268" />
+
+I got all the electronics down, but I still need to find the extrusions and rails/rods, and I might have to change some parts because the total is already around $280.
+
+---
+
