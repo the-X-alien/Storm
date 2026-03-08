@@ -118,7 +118,7 @@ I also added dual 24V 5015 Turbo Blowers to cool the plate and parts quickly.
 I got all the electronics down, but I still need to find the extrusions and rails/rods, and I might have to change some parts because the total is already around $280.
 
 ---
-### Day 1 - Mar 7 2026 - 3 Hours
+### Day 4 - Mar 7 2026 - 3 Hours
 After looking at my parts and looking at the prices, I started to question if this is actually possible
 
 And the math said no
