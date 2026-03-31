@@ -199,5 +199,43 @@ Then on Thursday, I want to build the full CAD Assembly
 And I hope that I can submit on friday, so I can order parts in time
 
 ---
+### Day 6 - Mar 10 2026 - 2 Hours
+Today I finshed the BOM, while keeping it under $350
+
+But I had to make some sacrifices along the way ...
+
+First, on a happier note, I discovered Amazon Haul after checking some other people's BOMs
+
+And often, I found that for my parts, haul was cheaper!
+
+For things like the endstops, the bearings, wire, etc
+
+Anyways, one of the big changes I had to make was the extrusions
+
+Since bigger extrusions cost more, I had to ditch the 4040s
+
+So now, I was using 2040s for the base
+
+2020s for the Z towers
+
+And a 2020 for the crossbar
+
+Other changes:
+
+I went back to the BTT SKR E3 V3 Mini, because the other one doesn't have drivers for the motors with it, so its an additional cost
+
+Next, instead of using a Nema17 Stepper Motor 17HS4401 for all the axes, I'm only using it for the Y axis
+
+And for the Z and X axis, I am using two Nema 17 Stepper Motor 42HS34
+
+Unfortunately, 300mm heated beds are really hard to find, but every site had tons of Ender 3 beds, so now my bed is 235mm
+
+Then for the probe, I went with the absolute cheapest, the 3DTouch
+
+Next, instead of buying a new touchscreen, I am using a ILI9341 2.8" SPI touchscreen that I have lying around
+
+Finally, I switched all the linear rails to linear rods because they are so much more cheaper
+
+---
 
 
