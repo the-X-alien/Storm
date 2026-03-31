@@ -1,5 +1,8 @@
 # Storm | A DIY 3D Printer
 
+<img width="794" height="736" alt="image" src="https://github.com/user-attachments/assets/cfb0a743-1131-4ae0-8a9c-7274dbdfc4f4" />
+
+
 An open-source Cartesian bedslinger 3D printer built and designed from scratch to beat the Bambu Lab A1 in speed and print quality, by a 13 year old
 
 Most budget 3D printers sacrifice speed for price or quality. Storm is better because it focuses on all three, fast, high quality, and affordability
